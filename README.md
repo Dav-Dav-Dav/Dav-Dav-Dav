@@ -1,9 +1,9 @@
 💼 9to5: React/JAMStack Developer.
 
-I love building stuff and exploring these fields:
+I love building stuff, especially using:
 
-JAMStack, 
-Serverless, 
+🔭 JAMStack, 
+🌱 Serverless, 
 Hasura, 
 Vercel, 
 Tailwind, 
