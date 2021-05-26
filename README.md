@@ -5,10 +5,14 @@ I love building stuff, especially using:
 🔭 JAMStack, 
 
 🌱 Serverless, 
-Hasura, 
-Vercel, 
-Tailwind, 
-CSS
+
+👯 Hasura, 
+
+🤔 Vercel, 
+
+💬 Tailwind, 
+
+📫 CSS
 <!--
 **Dav-Dav-Dav/Dav-Dav-Dav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
