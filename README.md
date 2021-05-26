@@ -1,5 +1,11 @@
-### Hi there 👋
+💼 9to5: React/JAMStack Developer.
 
+I love building stuff and exploring these fields:
+
+JAMStack, Serverless
+Hasura
+Vercel 
+Tailwind CSS
 <!--
 **Dav-Dav-Dav/Dav-Dav-Dav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
