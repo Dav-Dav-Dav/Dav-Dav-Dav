@@ -3,6 +3,7 @@
 I love building stuff, especially using:
 
 🔭 JAMStack, 
+
 🌱 Serverless, 
 Hasura, 
 Vercel, 
