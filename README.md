@@ -2,17 +2,17 @@
 
 I love building stuff, especially using:
 
-- JAMStack, 
+- JAMStack 🔭 , 
 
-🌱 Serverless, 
+- Serverless 🌱 , 
 
-👯 Hasura, 
+- Hasura 👯 , 
 
-🤔 Vercel, 
+- Vercel 🤔, 
 
-💬 Tailwind, 
+- Tailwind 💬, 
 
-📫 CSS
+- CSS 📫
 <!--
 **Dav-Dav-Dav/Dav-Dav-Dav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
