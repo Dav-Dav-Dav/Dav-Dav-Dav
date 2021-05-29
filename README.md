@@ -12,7 +12,6 @@ I love building stuff, especially using:
 
 - Tailwind 💬, 
 
-- CSS 📫
 <!--
 **Dav-Dav-Dav/Dav-Dav-Dav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
